@@ -147,9 +147,10 @@ Les classes principales implémentent `Serializable` pour permettre la sauvegard
 
 ## Améliorations Possibles
 
-- Ajout d'une interface graphique (Swing/JavaFX)
+- Ajout d'une interface graphique
 - Implémentation de stratégies pour les bots plus avancées
 - Statistiques et historique des parties
+
 
 
 
