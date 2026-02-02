@@ -2,6 +2,12 @@
 
 Un jeu de stratégie au tour par tour pour 1 à 3 joueurs, implantation Java du jeu. Les joueurs rivalisent pour conquérir des secteurs d'une galaxie hexagonale en déployant des vaisseaux et en jouant des cartes d'action.
 
+## Équipe du projet
+
+Ce projet a été réalisé en équipe dans le cadre de l'UE LO02 en deuxième année de cycle préparatoire à la formation d'ingénieur
+- **Samuel SPINDLER**
+- **Margot REMY**
+
 ## Caractéristiques
 
 - **Mode multijoueur** : Support de 1 à 3 joueurs (IA et humains)
@@ -79,6 +85,7 @@ Définissez le nombre de joueurs humains (1-3) et affrontez un bot pour complét
 | Exterminate | 1 | 3 destructions |
 | Exterminate | 2 | 2 destructions |
 | Exterminate | 3 | 1 destruction |
+
 
 
 
