@@ -1,6 +1,6 @@
 # Pocket Imperium
 
-Un jeu de stratégie au tour par tour pour 1 à 3 joueurs, implantation Java du jeu de société éponyme. Les joueurs rivalisent pour conquérir des secteurs d'une galaxie hexagonale en déployant des vaisseaux et en jouant des cartes d'action.
+Un jeu de stratégie au tour par tour pour 1 à 3 joueurs, implantation Java du jeu. Les joueurs rivalisent pour conquérir des secteurs d'une galaxie hexagonale en déployant des vaisseaux et en jouant des cartes d'action.
 
 ## Caractéristiques
 
@@ -79,6 +79,7 @@ Définissez le nombre de joueurs humains (1-3) et affrontez un bot pour complét
 | Exterminate | 1 | 3 destructions |
 | Exterminate | 2 | 2 destructions |
 | Exterminate | 3 | 1 destruction |
+
 
 
 
